@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e49f12a.chunk.css",
+    "main.js": "/static/js/main.cdb57c95.chunk.js",
+    "main.js.map": "/static/js/main.cdb57c95.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.77b13583.js",
+    "runtime-main.js.map": "/static/js/runtime-main.77b13583.js.map",
+    "static/js/2.fe660fa1.chunk.js": "/static/js/2.fe660fa1.chunk.js",
+    "static/js/2.fe660fa1.chunk.js.map": "/static/js/2.fe660fa1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fd6091d0171ad62fb6806d9ca3fe2c09.js": "/precache-manifest.fd6091d0171ad62fb6806d9ca3fe2c09.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8e49f12a.chunk.css.map": "/static/css/main.8e49f12a.chunk.css.map",
+    "static/js/2.fe660fa1.chunk.js.LICENSE.txt": "/static/js/2.fe660fa1.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/DSariUltraBlack.f79a9d2b.ttf",
+    "static/media/Inicio.scss": "/static/media/fundo inicio.81cb755c.png",
+    "static/media/PageContainer.scss": "/static/media/fundo rotas.4690ed63.png",
+    "static/media/loading.8a3550f7.svg": "/static/media/loading.8a3550f7.svg",
+    "static/media/reconhecimento facial.jpg": "/static/media/reconhecimento facial.c6c302dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77b13583.js",
+    "static/js/2.fe660fa1.chunk.js",
+    "static/css/main.8e49f12a.chunk.css",
+    "static/js/main.cdb57c95.chunk.js"
+  ]
+}
